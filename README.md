@@ -248,13 +248,16 @@ If you cannot install [svgo] you can try the online [nanoSVG]
 
 |Name|Icon|Counter|Notes|
 |---|---|---|---|
-|infantry||||
-|cavalry||||
-|artillery||||
-|limbered||||
-|wagon||||
-|gun crew|![crew](./icons/gbacw-icon-crew.svg)|![crew-counter](./icons/gbacw-icon_crew-counter.svg)||
-|column||||
+|Infantry|![inf](./icons/gbacw-icon_inf.svg)|||
+|Cavalry|![cav](./icons/gbacw-icon_cav.svg)|||
+|Artillery|![art](./icons/gbacw-icon_cannon.svg)|||
+|Limbered|![limber](./icons/gbacw-icon_limber.svg)|||
+|Horse Limber|![hlimber](./icons/gbacw-icon_horse-limber.svg)|||
+|Wagon|![wagon](./icons/gbacw-icon_wagon.svg)|||
+|Gun Crew|![crew](./icons/gbacw-icon-crew.svg)|![crew-counter](./icons/gbacw-icon_crew-counter.svg)||
+|Column|![col](./icons/gbacw-icon_column.svg)|||
+|Picket|![picket](./icons/gbacw-icon_picket.svg)|||
+|Line|![line](./icons/gbacw-icon_line.svg)|||
 |||||
 
 ## NEXT STEPS
