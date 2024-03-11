@@ -1,0 +1,1 @@
+for %%i in (*.svg) do svgo -i %%i -o %%i 
