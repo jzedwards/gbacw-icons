@@ -10,9 +10,9 @@ The *Great Battles of the American Civil War* [GBACW](https://boardgamegeek.com/
 At [simpubs] towers we spend a lot of time recreating classic counter designs (often by [RAS]) and a recent [Facebook] post on the Wargame Artwork group was asking about GBACW icons.  
 This short guide in [markdown] is intended to outline the process to create [SVG] icons from GBACW counters. This will be published on [simpubs] and on [github].
 
-**Illustrator file at https://nextcloud.simpubs.org/s/FN6qwkJFx8gw9Hk**  
-**Photoshop file at https://nextcloud.simpubs.org/s/Pr2RN6zAR8NSHaW**  
-**Other files at https://github.com/jzedwards/gbacw-icons**
+**Illustrator file on [simpubs Nextcloud](https://nextcloud.simpubs.org/s/FN6qwkJFx8gw9Hk)**  
+**Photoshop file on [simpubs Nextcloud](https://nextcloud.simpubs.org/s/Pr2RN6zAR8NSHaW)**  
+**Other files on [github](https://github.com/jzedwards/gbacw-icons)**
 
 ## APPROACH
 
