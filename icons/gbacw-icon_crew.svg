@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 28.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="600px" height="600px" viewBox="0 0 600 600" overflow="visible" xml:space="preserve">
+	 y="0px" viewBox="0 0 600 600" overflow="visible" xml:space="preserve">
 <g id="bg" display="none">
 	<rect x="-3075" y="-75" display="inline" fill="#CCCCCC" width="3750" height="1500"/>
 </g>
-<g id="scans">
+<g id="scans" display="none">
 </g>
 <g id="icons">
-	<g>
+	<g id="crew">
 		<path d="M308.951,385.591c-1.802,5.567-7.239,9.274-10.061,14.273c-3.51,6.218-6.618,12.9-9.651,19.377
 			c-7.529,12.846-12.785,26.39-16.917,40.653c-2.648,6.686-5.81,13.41-7.006,20.551c-1.059,11.178,3.849,30.652-13.674,28.774
 			c-12.171-1.413-48.369,14.206-34.859-11.684c3.157-13.771-0.097-29.138-0.897-43.256c-0.156-33.728-1.704-67.316-4.518-100.919
