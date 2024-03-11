@@ -1,6 +1,6 @@
 # Making GBACW Icons
 
-![bloody april](./img/bloody-april-cover.png)
+![bloody april](img/bloody-april-cover.png)
 
 [Boardgamegeek] - [Vassal]
 
